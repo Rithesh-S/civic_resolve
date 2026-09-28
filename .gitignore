@@ -1,0 +1,14 @@
+node_modules/
+.env
+build/
+.dart_tool/
+.idea/
+.vscode/
+
+# Keep upload folders but ignore contents
+backend/uploads/audio/*
+!backend/uploads/audio/.gitkeep
+backend/uploads/images/*
+!backend/uploads/images/.gitkeep
+backend/uploads/proofs/*
+!backend/uploads/proofs/.gitkeep

@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+temp/
+tmp/
+
+# IDE or editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage directory
+coverage/
+
+# ESLint cache
+.eslintcache
+
+# Prettier cache
+.prettierignore
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Miscellaneous
+*.tgz
+*.zip
+*.tar.gz
+*.swp
+*.bak
